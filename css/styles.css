@@ -443,6 +443,11 @@ legend {
     white-space : normal;
 }
 
+.underline-on-hover:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
 progress {
     vertical-align : baseline;
 }
